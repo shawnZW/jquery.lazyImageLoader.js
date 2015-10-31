@@ -1,0 +1,27 @@
+{
+  "name": "lazyImageLoader",
+  "main": "jquery.lazyImageLoader.js",
+  "homepage": "https://github.com/shawnZW/jquery.lazyImageLoader.js",
+  "authors": [
+    "shawnZW"
+  ],
+  "description": "lazy image loader",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "lazy",
+    "image",
+    "load"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
